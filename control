@@ -1,0 +1,10 @@
+Package: com.pxcex.transpotlight
+Name: Transpotlight
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Background Transparent in Search Header Spotlight.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Depiction: https://paxcex.github.io/depictions/com.pxcex.transpotlight/index.html
